@@ -1,0 +1,14 @@
+.idea/
+*.pyc
+#*.pth
+dataset/
+test_results/
+results/
+logs/
+checkpoints/
+.DS_Store
+
+
+*.txt
+!requirements.txt
+*.csv
